@@ -1,0 +1,8 @@
+c:\users\alex\documents\visual studio 2015\Projects\USB-TO-GPIO USB Interface Adapter\USB-TO-GPIO USB Interface Adapter\bin\Debug\USB-TO-GPIO USB Interface Adapter.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\USB-TO-GPIO USB Interface Adapter\USB-TO-GPIO USB Interface Adapter\bin\Debug\USB-TO-GPIO USB Interface Adapter.exe
+c:\users\alex\documents\visual studio 2015\Projects\USB-TO-GPIO USB Interface Adapter\USB-TO-GPIO USB Interface Adapter\bin\Debug\USB-TO-GPIO USB Interface Adapter.pdb
+c:\users\alex\documents\visual studio 2015\Projects\USB-TO-GPIO USB Interface Adapter\USB-TO-GPIO USB Interface Adapter\obj\Debug\USB-TO-GPIO USB Interface Adapter.exe
+c:\users\alex\documents\visual studio 2015\Projects\USB-TO-GPIO USB Interface Adapter\USB-TO-GPIO USB Interface Adapter\obj\Debug\USB-TO-GPIO USB Interface Adapter.pdb
+c:\users\alex\documents\visual studio 2015\Projects\USB-TO-GPIO USB Interface Adapter\USB-TO-GPIO USB Interface Adapter\bin\Debug\Sequencer Interface.dll
+c:\users\alex\documents\visual studio 2015\Projects\USB-TO-GPIO USB Interface Adapter\USB-TO-GPIO USB Interface Adapter\bin\Debug\TIDP.SAA2.dll
+c:\users\alex\documents\visual studio 2015\Projects\USB-TO-GPIO USB Interface Adapter\USB-TO-GPIO USB Interface Adapter\bin\Debug\UCD9081 Transport.dll
